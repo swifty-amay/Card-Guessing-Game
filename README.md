@@ -31,16 +31,16 @@ Here is the flow:-
 </ul>
 
 <h1>Running</h1>
-To tun in mac, open terminal and then move to project file, cd path/to/project/folder.
-Then g++ main.cpp
-Then ./a.out
+To tun in mac, open terminal and then move to project file, cd path/to/project/folder.<br>
+Then g++ main.cpp<br>
+Then ./a.out<br>
 And you are good to go
 
-To run in Windows, open command prompt and then move to project file, cd path/to/project/folder.
-Then g++ main.cpp
-Then .\a.exe
+To run in Windows, open command prompt and then move to project file, cd path/to/project/folder.<br>
+Then g++ main.cpp<br>
+Then .\a.exe<br>
 And you are good to go.
 
 
 
-<h1>Hope you all will enjoy the game, and yes don't forget to ask questions if any!!!
+<h1>Hope you all will enjoy the game, and yes don't forget to star🌟 the repo and feel free to ask questions if any!!!
