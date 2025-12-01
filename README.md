@@ -33,7 +33,7 @@ Here is the flow:-
 
 <h1>Running</h1>
 To tun in mac, open terminal and then move to project file, <u>cd path/to/project/folder</u><br>
-Then <b><u>g++ main.cpp</u></b> <br>
+Then <b>g++ main.cpp</b> <br>  <u>a</u>
 Then <b><u>./a.out</u></b><br>
 And you are good to go...
 
