@@ -32,14 +32,14 @@ Here is the flow:-
 </ul>
 
 <h1>Running</h1>
-To tun in mac, open terminal and then move to project file, <u>cd path/to/project/folder</u><br>
-Then <b>g++ main.cpp</b> <br>  <u>a</u>
+To tun in mac, open terminal and then move to project file, <b>cd path/to/project/folder</b><br>
+Then <b>g++ main.cpp</b> <br>
 Then <b><u>./a.out</u></b><br>
 And you are good to go...
 
-To run in Windows, open command prompt and then move to project file, <u>cd path/to/project/folder</u><br>
-Then  g++ main.cpp<br>
-Then <u>.\a.exe</u><br>
+To run in Windows, open command prompt and then move to project file, <b>cd path/to/project/folder</b><br>
+Then  <b>g++ main.cpp</b><br>
+Then <b>.\a.exe</b><br>
 And you are good to go...
 
 
