@@ -33,12 +33,12 @@ Here is the flow:-
 
 <h1>Running</h1>
 To tun in mac, open terminal and then move to project file, <u>cd path/to/project/folder</u><br>
-Then <u> g++ main.cpp </u> <br>
-Then <u>./a.out</u><br>
+Then <b><u>g++ main.cpp</u></b> <br>
+Then <b><u>./a.out</u></b><br>
 And you are good to go...
 
 To run in Windows, open command prompt and then move to project file, <u>cd path/to/project/folder</u><br>
-Then <u>g++ main.cpp</u><br>
+Then  g++ main.cpp<br>
 Then <u>.\a.exe</u><br>
 And you are good to go...
 
