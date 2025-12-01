@@ -13,6 +13,7 @@ Here is the flow:-
   <li>Strings</li>
   <li>Arrays</li>
   <li>STL</li>
+  <li>Functions</li>
 </ol>
 <h2>Team Members</h2>
 <ul>
@@ -20,3 +21,26 @@ Here is the flow:-
 <li>Anjali Singh</li>
 <li>Aakriti Gupta</li>
 </ul>
+
+<h1>Steps To Run It</h1>
+<ul>
+ <li>Choose an editor of your choice</li>
+ <li>Fork the repo and clone it</li>
+ <li>Open the cloned file in your editor.</li>
+ <li>Then run it.</li>
+</ul>
+
+<h1>Running</h1>
+To tun in mac, open terminal and then move to project file, cd path/to/project/folder.
+Then g++ main.cpp
+Then ./a.out
+And you are good to go
+
+To run in Windows, open command prompt and then move to project file, cd path/to/project/folder.
+Then g++ main.cpp
+Then .\a.exe
+And you are good to go.
+
+
+
+<h1>Hope you all will enjoy the game, and yes don't forget to ask questions if any!!!
